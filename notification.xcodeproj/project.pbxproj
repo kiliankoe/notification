@@ -95,6 +95,7 @@
 					398F9D191E168E81002DFDB6 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = HU85FER47E;
+						LastSwiftMigration = 1120;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -244,7 +245,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				DEVELOPMENT_TEAM = HU85FER47E;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -254,7 +255,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				DEVELOPMENT_TEAM = HU85FER47E;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
